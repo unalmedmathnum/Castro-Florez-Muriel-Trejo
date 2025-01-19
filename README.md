@@ -1,11 +1,11 @@
-# Numerical Analysis Assignments
+# Tareas de Análisis Numérico
 
-This repository contains the assignments for the Numerical Analysis course. Each assignment is organized into its own folder and includes relevant documents and code.
+Este repositorio contiene las tareas del curso de Análisis Numérico. Cada tarea está organizada en su propia carpeta e incluye documentos y código relevantes.
 
-## Prerequisites
+## Requisitos Previos
 
-Before getting started, make sure you have the following installed:
+Antes de comenzar, asegúrate de tener instalado lo siquiente:
 
-- Python 3.10 or higher
-- Python packages specified in requirements.txt
-- Jupyter Lab 4.2.5 (or higher), or Jupyter Notebook 7.2.2 (or higher)
+Python 3.10 o superior
+Paquetes de Python especificados en requirements.txt
+Jupyter Lab 4.2.5 (o superior) o Jupyter Notebook 7.2.2 (o superior)
